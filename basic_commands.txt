@@ -1,0 +1,20 @@
+git init -->  intilaizes git repo in given file path
+git clone --> makes a local copy of that project
+git status --> used to show that u changes something on code or not
+git diff -->  used to show that what are the changes made on the specific file 
+git add-->   used to stage codefile (the process u do before commiting)
+git commit -m*msgname --> used to commit the file 
+git log --> used to show the code logs(which changes were made at which time and why )
+git show <commit id> --> used to show the changes with commit id 
+git branch -->  shows the branch u are working in 
+git checkout -b <branchname> --> used to make a new brnach 
+git checkout <branch name> --->  used to change to another brnach 
+git checkout -d <branch name>---> used to delete a specified brnach 
+git merge <branch name>--> used to merge branches
+git reset --hard  --> used to delete a commit peremantly and also code change 
+git reset --soft -->used to delete a commit but without affecting the code change 
+git push--> used to push files to remote
+git restore--> used to restore the state of the file 
+git pull --updates the coomit history from remote branch
+ 
+
